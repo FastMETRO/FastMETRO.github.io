@@ -1,0 +1,6 @@
+@InProceedings{cho2022FastMETRO,
+    title={Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers},
+    author={Junhyeong Cho and Kim Youwang and Tae-Hyun Oh},
+    booktitle={European Conference on Computer Vision (ECCV)},
+    year={2022}
+}
