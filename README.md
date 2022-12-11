@@ -1,7 +1,7 @@
-# [ECCV'22] FastMETRO
+# [ECCV'22] Fast Mesh Transformer
 ### [Paper](https://arxiv.org/abs/2207.13820) | [Code](https://github.com/postech-ami/FastMETRO)
 
-- This is the project page of [Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers](https://arxiv.org/abs/2207.13820).
+- This is the project page of [Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers](https://arxiv.org/abs/2207.13820) (ECCV 2022).
 
 ---
 
